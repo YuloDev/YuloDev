@@ -1,5 +1,5 @@
 ### 👋 Hi i'm Rafa, software engineer student at EPN Ecuador
-### 🌱 I’m currently learning Javascript 
+
 <!--
 **YuloDev/YuloDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
